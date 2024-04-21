@@ -6,6 +6,10 @@ Some rich people loose all their money and can be broke for a while.
 
 hello back from desktop
 
+From mobile
+
+
+
 **The difference is the thoughts you have about money** 
 
 - *Money is not important* vs *Money is power*
