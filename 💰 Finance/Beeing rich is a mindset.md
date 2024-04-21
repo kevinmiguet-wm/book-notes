@@ -4,7 +4,7 @@ It's not only about the number you have in your bank account, but about your min
 Poor people who win the lottery often stay poor. 
 Some rich people loose all their money and can be broke for a while. 
 
-hello back from desktop
+from desktop
 
 From mobile
 
