@@ -1,2 +1,2 @@
 
-You should of course 
+You should of course try to reduce the uncertainty when doing something
