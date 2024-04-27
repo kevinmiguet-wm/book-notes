@@ -3,4 +3,6 @@ You should of course try to reduce the uncertainty when doing something, especia
 
 But keep in mind things will mess up badly always and there will always be accidents
 
-Take the example of the american army guy who prepared his team for ben ladwho trained his team 
+Take the example of the american army guy who prepared his team for ben laden killing. 
+
+He trained his team on the worst case scenario inst
