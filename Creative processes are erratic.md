@@ -4,4 +4,4 @@ Quality arise after refinement, never at the first shot.
 
 Should I accept that all good thing come from iteration and that the first shot will be always uncomfortable to see ? 
 
-Making a sho
+
