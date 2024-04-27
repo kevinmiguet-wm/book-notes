@@ -1,1 +1,1 @@
-At pixar
+At pixar, the first version of the movie is always bad (« some of them are )
