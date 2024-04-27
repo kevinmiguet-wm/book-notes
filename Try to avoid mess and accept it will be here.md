@@ -3,4 +3,4 @@ You should of course try to reduce the uncertainty when doing something, especia
 
 But keep in mind things will mess up badly always and there will always be accident.
 
-Take the example of the 
+Take the example of the american army who gather
