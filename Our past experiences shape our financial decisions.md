@@ -2,4 +2,6 @@ You can read a lot about finance, some decisions will still be shaped by your ex
 
 Most of us shape our economic vision in our 20’s. Some lessons can’t be learnt in any other way than experience. Based on this, you may acquire good or bad financial habits. 
 
-That’s maybe on
+That’s maybe one of the reasons why most poors stay poor and why rich stay rich. 
+
+Beeing aware of this is the first step to 
