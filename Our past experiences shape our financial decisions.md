@@ -4,4 +4,4 @@ Most of us shape our economic vision in our 20’s. Some lessons can’t be lear
 
 That’s maybe one of the reasons why most poors stay poor and why rich stay rich. 
 
-Beeing aware of this is the first step to 
+I hope beeing aware of this is the first step to be free from those bad habits, and take better decisions
