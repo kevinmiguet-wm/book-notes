@@ -1,1 +1,1 @@
-You can read a lot about finance, some 
+You can read a lot about finance, some decisions will be shaped by your experiences, even
