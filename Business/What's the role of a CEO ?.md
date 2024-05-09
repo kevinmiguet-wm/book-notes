@@ -9,4 +9,5 @@
 
 ### Constraint theory
 - A business growth is limited by a limited number of constraints
-- 
+
+LTV of an agency 
