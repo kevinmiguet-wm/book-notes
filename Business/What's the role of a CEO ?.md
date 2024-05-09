@@ -1,5 +1,6 @@
 
 ### Whats a good CEO ?
 
-- Investor : get the max value to your time invested
+**He's an investor**
+- get the max value to your time invested
 	- invest 
