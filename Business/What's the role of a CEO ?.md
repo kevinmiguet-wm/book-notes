@@ -14,4 +14,4 @@
 - LTV of an agency client
 - LTV / CAC should be x10
 - Processiser l'upsell 
-- 
+- HR
