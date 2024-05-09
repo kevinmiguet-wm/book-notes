@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b39e4cc7da126f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business/What's the role of a CEO ?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20644ab2e41a56c2",
+  "active": "4b39e4cc7da126f8",
   "lastOpenFiles": [
-    "💰 Finance/Our past experiences shape our financial decisions.md",
+    "Business/Constraint theory.md",
     "Business/What's the role of a CEO ?.md",
+    "💰 Finance/Our past experiences shape our financial decisions.md",
     "Business",
     "💰 Finance/Beeing rich is a mindset.md",
     "Management/Vulnerability is the root of cooperation.md",
