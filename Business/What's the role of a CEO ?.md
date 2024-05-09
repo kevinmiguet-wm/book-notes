@@ -6,4 +6,6 @@
 - invest resources in the right place
 - find the right issues to solve, the right solutions for them
 
-#### 
+
+### Constraint theory
+- A business 
