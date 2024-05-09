@@ -10,9 +10,9 @@
 ### Constraint theory
 - A business growth is limited by a limited number of constraints
 
-#### Other
+#### Other notes
 - LTV of an agency client
-- LTV / CAC
+- LTV / CAC should be x 10
 - processiser l'upsell 
 - 
 
