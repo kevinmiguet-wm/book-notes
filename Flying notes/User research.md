@@ -39,7 +39,8 @@ Then answer those questions :
 2. We are launching a new campaign targeting. Based on all the reviews, what should we make sure to mention and avoid
 3. Find really good "one-liners" from the reviews. A good one-liner is concise, clear, emotionally moving, and just well-written
 4. Can you find common words used in the reviews that could be helpful for our creative strategists ?
-5. Here is a competitor
+5. Here is a competitor website [URL]. Based on our reviews, how should we position ourselves to be different ?
+   How has the sentiment of the reviews 
 
 
 
