@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c6e2ebf366d6d55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flying notes/User research.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "93b0d1229016eb83",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/What's the role of a CEO ?.md",
+                "file": "Flying notes/User research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/What's the role of a CEO ?.md",
+                "file": "Flying notes/User research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/What's the role of a CEO ?.md"
+                "file": "Flying notes/User research.md"
               }
             }
           }
@@ -159,10 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b39e4cc7da126f8",
+  "active": "3c6e2ebf366d6d55",
   "lastOpenFiles": [
-    "Business/Constraint theory.md",
     "Business/What's the role of a CEO ?.md",
+    "Flying notes/User research.md",
+    "Business/Constraint theory.md",
     "💰 Finance/Our past experiences shape our financial decisions.md",
     "Business",
     "💰 Finance/Beeing rich is a mindset.md",
