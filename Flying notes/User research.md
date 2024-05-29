@@ -17,6 +17,7 @@
 	5. Support tickets and surveys
 	6. Social listening
 		1. Check for problems on reddit
+		2. Consume content customer consume
 	7. Statistics
 3. 
    
