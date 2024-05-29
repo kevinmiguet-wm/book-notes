@@ -20,7 +20,8 @@
 		2. Consume content customer consume
 		3. search for the painpoint it solve on yt 
 	7. Statistics
-3. 
+
+
    
 ### Prompt
 Using the reviews above, make a list of the most common things that customers like or don't like about this product.
