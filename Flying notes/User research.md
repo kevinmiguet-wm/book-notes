@@ -12,3 +12,6 @@
 2. Find supporting evidences of these advantages 
 	1. Reviews
 3. 
+   
+   
+Using the reviews above, make a list of the most common things that cust
