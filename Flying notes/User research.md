@@ -36,7 +36,8 @@ The categories should be :
 
 Then answer those questions : 
 1. What are some interesting patterns of the reviews that humands could miss ? 
-2. We are launching a new campaign targeting. Based on all the reviews, what should we make sh
+2. We are launching a new campaign targeting. Based on all the reviews, what should we make sure to mention and avoid
+3. Find really good "one-liners" from the reviews. A good one-liner is con
 
 
 
