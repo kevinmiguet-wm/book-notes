@@ -11,6 +11,9 @@
 1. Fill each section with your knowledge of the customer base
 2. Find supporting evidences of these advantages 
 	1. Reviews
+	2. Ad comments
+	3. Competitor research
+	4. Ad account/
 3. 
    
 ### Prompt
