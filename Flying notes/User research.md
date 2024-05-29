@@ -16,6 +16,8 @@
 	4. Ad account/Motion reports
 	5. Support tickets and surveys
 	6. Social listening
+		1. Check for problems on reddit
+	7. Statistics
 3. 
    
 ### Prompt
