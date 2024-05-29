@@ -52,7 +52,6 @@ Then answer those questions :
 5. Here is a competitor website [URL]. Based on our reviews, how should we position ourselves to be different ?
 6. How has the sentiment of the reviews changed over time ? Any patterns based on seasonality of when people buy ?
 7. Here is our website [insert website].  Based on the reviews, do you see any untapped products/colors/flavors/etc.. that we should explore ?
-8
    
 
 
