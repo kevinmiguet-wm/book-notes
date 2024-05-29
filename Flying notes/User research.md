@@ -13,7 +13,9 @@
 	1. Reviews
 	2. Ad comments
 	3. Competitor research
-	4. Ad account/
+	4. Ad account/Motion reports
+	5. Support tickets and surveys
+	6. Social listening
 3. 
    
 ### Prompt
