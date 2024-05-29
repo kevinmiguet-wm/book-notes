@@ -27,4 +27,6 @@ The categories should be :
 
 **Customer**
 1. Customer pain points (What are the biggest or most common pain points people were looking to solve or alleviate using this product ?)
-2. Customer Desired Outcomes (What are the most common desired outcomes )
+2. Customer Desired Outcomes (What are the most common desired outcomes that customer had when buying this product ?)
+3. Customer Purchase Prompts (What event triggered them to start considering purchasing this product ?) 
+4. 
