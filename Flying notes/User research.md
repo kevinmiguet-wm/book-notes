@@ -5,4 +5,8 @@
 - Objections
 - Features
 - Failed Solutions
-- Pain POin
+- Pain Points
+- Other
+
+1. Fill each section with your knowledge of the customer base
+2. 
