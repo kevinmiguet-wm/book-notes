@@ -23,4 +23,7 @@ The categories should be :
 
 **Product**
 1. Main unique value proposition (what are the main reasons why people purchased this product ? (benefits/advantages))
-2. Unique features/benefits (what are the )
+2. Unique features/benefits (what are the unique selling points this product has over its competitors ?)
+
+**Customer**
+1. Customer pain points (What are the biggest )
