@@ -22,4 +22,5 @@ You should divide the list to 8 categories (2 on the 'product' side and 6 on the
 The categories should be : 
 
 **Product**
-1. Main unique prop
+1. Main unique value proposition (what are the main reasons why people purchased this product ? (benefits/advantages))
+2. Unique features/benefits (what are the )
