@@ -35,7 +35,8 @@ The categories should be :
 
 
 Then answer those questions : 
-1. What are some interesting pa
+1. What are some interesting patterns of the reviews that humands could miss ? 
+2. We are launching a new campaign targeting. Based on all the reviews, what should we make sh
 
 
 
