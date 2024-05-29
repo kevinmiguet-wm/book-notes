@@ -32,3 +32,7 @@ The categories should be :
 4. Customer Misconceptions (What's a misconception that customers believed about the product/brand beforehand that they now know not to be true ?)
 5. Customer failed Solutions (what other solutions have customers tried before that haven't worked ?)
 6. Customer objections (why did customers think this product wouldn't work for them before buying ? Why were/are customers doubting ? what did they think about the product that scared them before buying ? )
+
+-----
+
+
