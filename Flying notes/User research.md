@@ -14,4 +14,7 @@
 3. 
    
    
-Using the reviews above, make a list of the most common things that cust
+Using the reviews above, make a list of the most common things that customers like or don't like about this product.
+You should only include things that repeat over and over again in the reviews, write the ones that repeat the most first.
+
+You should 
