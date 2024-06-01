@@ -38,9 +38,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "74b989041c9d9c59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flying notes/CRM on clickup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Flying notes/CRM on clickup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Flying notes/CRM on clickup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Flying notes/CRM on clickup.md"
+              }
             }
           }
         ]
@@ -163,8 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c6e2ebf366d6d55",
+  "active": "74b989041c9d9c59",
   "lastOpenFiles": [
+    "Flying notes/CRM on clickup.md",
+    "Sales",
     "Untitled.canvas",
     "Flying notes/User research.md",
     "Business/What's the role of a CEO ?.md",
