@@ -17,10 +17,11 @@ Closed (lost)
 
 
 ###### Due Date
+###### Contact link
 ###### Note
 
 ###### Views
-Actions
+Actions 
 Hot lead pipeline
 
 
