@@ -19,7 +19,10 @@ Closed (lost)
 ###### Due Date
 ###### Note
 
-######
+###### Views
+Actions
+Hot lead pipeline
+
 
 
 
