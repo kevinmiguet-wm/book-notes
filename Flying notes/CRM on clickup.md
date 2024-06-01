@@ -13,7 +13,8 @@ No Show
 Long term follow up
 
 Closed (won)
-R1 taken
+Closed (lost)
+
 
 
 ###### Note
