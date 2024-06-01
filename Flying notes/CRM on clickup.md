@@ -1,6 +1,7 @@
 
 ### Automations
-Google Sheet > 
+Google Form > Google Sheet
+Apollo > Google Sheet 
 Calendly > Clickup
 Email > Clickup
 
