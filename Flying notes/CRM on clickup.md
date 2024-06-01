@@ -1,5 +1,6 @@
 
 ### Automations
+Google Sheet > 
 Calendly > Clickup
 Email > Clickup
 
@@ -21,6 +22,8 @@ Closed (lost)
 ###### Note
 
 ###### Views
+Google sheet 
+contains all people we've sent email to. Once they take a call >>> Calendly
 Actions 
 Hot lead pipeline
 
